@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/ArrayProblemSolving/ArrayProblemSolving.iml" filepath="$PROJECT_DIR$/Lecture4/ArrayProblemSolving/ArrayProblemSolving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureCima/CircularLinked_List/CircularLinked_List.iml" filepath="$PROJECT_DIR$/DataStructureCima/CircularLinked_List/CircularLinked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_PW/DSA_PW.iml" filepath="$PROJECT_DIR$/DSA_PW/DSA_PW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureCima/DataStructureCima.iml" filepath="$PROJECT_DIR$/DataStructureCima/DataStructureCima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureCimage/DataStructureCimage.iml" filepath="$PROJECT_DIR$/DataStructureCimage/DataStructureCimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureCima/DoubleLinked_List/DoubleLinked_List.iml" filepath="$PROJECT_DIR$/DataStructureCima/DoubleLinked_List/DoubleLinked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3.iml" filepath="$PROJECT_DIR$/Lecture3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureCima/SingleLinked_List/SingleLinked_List.iml" filepath="$PROJECT_DIR$/DataStructureCima/SingleLinked_List/SingleLinked_List.iml" />
+    </modules>
+  </component>
+</project>
