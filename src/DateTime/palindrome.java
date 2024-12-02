@@ -32,5 +32,22 @@ public class palindrome {
         }
         System.out.println(p);
 
+
+        String bal = "balmiki";
+        char[]b=bal.toCharArray();
+        int len=b.length;
+        for(int i=len-1; i>=0;i--){
+            System.out.print(b[i]);
+        }
+
+        int fac=5,res=1;
+        for(int i=1;i<=5;i++){
+            res=res*i;
+        }
+        System.out.println(res);
+
+
     }
+
+
 }

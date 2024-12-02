@@ -11,11 +11,11 @@ public class countStair {
 
     public static void main(String[] args) {
         System.out.println("For n=1, no. of ways : "+countWays(1));
-        System.out.println("For n=1, no. of ways : "+countWays(2));
-        System.out.println("For n=1, no. of ways : "+countWays(3));
-        System.out.println("For n=1, no. of ways : "+countWays(4));
-        System.out.println("For n=1, no. of ways : "+countWays(5));
-        System.out.println("For n=1, no. of ways : "+countWays(6));
+        System.out.println("For n=2, no. of ways : "+countWays(2));
+        System.out.println("For n=3, no. of ways : "+countWays(3));
+        System.out.println("For n=4, no. of ways : "+countWays(4));
+        System.out.println("For n=5, no. of ways : "+countWays(5));
+        System.out.println("For n=6, no. of ways : "+countWays(6));
 
     }
 
